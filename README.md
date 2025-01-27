@@ -5,8 +5,9 @@
 ## About
 <p align="center">
 <b>Comparative and Evolutionary Genomics (PGBI11115)</b> <br>
-University of Edinburgh Bioinformatics MSc Module Spring 2025 <br>
-Run by <a href="https://edwebprofiles.ed.ac.uk/profile/daniel-barker">Daniel Barker</a><br>
+  University of Edinburgh: Bioinformatics MSc  <br>
+    Spring 2025 <br>
+Run by: <a href="https://edwebprofiles.ed.ac.uk/profile/daniel-barker"> Dr Daniel Barker</a><br>
 </p>
 
 <!-- TABLE OF CONTENTS -->
