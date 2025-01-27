@@ -1,0 +1,100 @@
+	crunogenapep	magnificapep	okutaniipep
+Number of genes	2196	976	937
+Number of genes in orthogroups	1333	927	896
+Number of unassigned genes	863	49	41
+Percentage of genes in orthogroups	60.7	95.0	95.6
+Percentage of unassigned genes	39.3	5.0	4.4
+Number of orthogroups containing species	882	887	861
+Percentage of orthogroups containing species	84.9	85.4	82.9
+Number of species-specific orthogroups	123	1	1
+Number of genes in species-specific orthogroups	395	2	2
+Percentage of genes in species-specific orthogroups	18.0	0.2	0.2
+
+
+Number of genes per-species in orthogroup	Number of orthogroups	Number of orthogroups	Number of orthogroups
+'0	157	152	178
+'1	649	852	831
+'2	170	32	27
+'3	33	2	2
+'4	11	0	0
+'5	6	1	1
+'6	4	0	0
+'7	2	0	0
+'8	1	0	0
+'9	0	0	0
+'10	0	0	0
+11-15	2	0	0
+16-20	1	0	0
+21-50	3	0	0
+51-100	0	0	0
+101-150	0	0	0
+151-200	0	0	0
+201-500	0	0	0
+501-1000	0	0	0
+'1001+	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups
+'0	15.1	14.6	17.1
+'1	62.5	82.0	80.0
+'2	16.4	3.1	2.6
+'3	3.2	0.2	0.2
+'4	1.1	0.0	0.0
+'5	0.6	0.1	0.1
+'6	0.4	0.0	0.0
+'7	0.2	0.0	0.0
+'8	0.1	0.0	0.0
+'9	0.0	0.0	0.0
+'10	0.0	0.0	0.0
+11-15	0.2	0.0	0.0
+16-20	0.1	0.0	0.0
+21-50	0.3	0.0	0.0
+51-100	0.0	0.0	0.0
+101-150	0.0	0.0	0.0
+151-200	0.0	0.0	0.0
+201-500	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0
+
+Number of genes per-species in orthogroup	Number of genes	Number of genes	Number of genes
+'0	0	0	0
+'1	649	852	831
+'2	340	64	54
+'3	99	6	6
+'4	44	0	0
+'5	30	5	5
+'6	24	0	0
+'7	14	0	0
+'8	8	0	0
+'9	0	0	0
+'10	0	0	0
+11-15	25	0	0
+16-20	17	0	0
+21-50	83	0	0
+51-100	0	0	0
+101-150	0	0	0
+151-200	0	0	0
+201-500	0	0	0
+501-1000	0	0	0
+'1001+	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of genes	Percentage of genes	Percentage of genes
+'0	0.0	0.0	0.0
+'1	29.6	87.3	88.7
+'2	15.5	6.6	5.8
+'3	4.5	0.6	0.6
+'4	2.0	0.0	0.0
+'5	1.4	0.5	0.5
+'6	1.1	0.0	0.0
+'7	0.6	0.0	0.0
+'8	0.4	0.0	0.0
+'9	0.0	0.0	0.0
+'10	0.0	0.0	0.0
+11-15	1.1	0.0	0.0
+16-20	0.8	0.0	0.0
+21-50	3.8	0.0	0.0
+51-100	0.0	0.0	0.0
+101-150	0.0	0.0	0.0
+151-200	0.0	0.0	0.0
+201-500	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0

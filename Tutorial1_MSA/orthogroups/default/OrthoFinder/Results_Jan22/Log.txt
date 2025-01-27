@@ -1,0 +1,12 @@
+2025-01-22 11:24:46 : Started OrthoFinder version 2.5.4
+Command Line: orthofinder -f orthogroups/default -t 2 -og
+
+WorkingDirectory_Base: /localdisk/home/s2691680/CEG/orthogroups/default/OrthoFinder/Results_Jan22/WorkingDirectory/
+
+Species used: 
+0: crunogenapep.fa
+1: magnificapep.fa
+2: okutaniipep.fa
+
+FN_Orthogroups: /localdisk/home/s2691680/CEG/orthogroups/default/OrthoFinder/Results_Jan22/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+2025-01-22 11:25:15 : OrthoFinder run completed

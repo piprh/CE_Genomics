@@ -1,0 +1,79 @@
+BLASTP 2.13.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: User specified sequence set (Input:
+OrthoFinder/Results_Jan22/Orthogroup_Sequences/OG0000279.fa).
+           3 sequences; 941 total letters
+
+
+
+Query= ABB41230
+
+Length=567
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+ABB41064                                                              20.0    0.43 
+ABB41065                                                              15.8    9.7  
+
+
+> ABB41064
+Length=295
+
+ Score = 20.0 bits (40),  Expect = 0.43, Method: Compositional matrix adjust.
+ Identities = 13/43 (30%), Positives = 20/43 (47%), Gaps = 3/43 (7%)
+
+Query  476  LGMVRQ--WQEFFYDRRYSMSYMDS-LPDFVKLAEAYGHVGIR  515
+            LG+ R+  W   FY R  + S     + D  + A  +G +G R
+Sbjct  101  LGVPREDVWHNAFYYRVNARSENKKYINDLCQSASVFGRMGER  143
+
+
+> ABB41065
+Length=458
+
+ Score = 15.8 bits (29),  Expect = 9.7, Method: Compositional matrix adjust.
+ Identities = 5/12 (42%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  276  AIGARFDDRVTG  287
+            ++   FDD V+G
+Sbjct  233  SVSGFFDDYVSG  244
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.136    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 435072
+
+
+  Database: User specified sequence set (Input:
+OrthoFinder/Results_Jan22/Orthogroup_Sequences/OG0000279.fa).
+    Posted date:  Unknown
+  Number of letters in database: 941
+  Number of sequences in database:  3
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

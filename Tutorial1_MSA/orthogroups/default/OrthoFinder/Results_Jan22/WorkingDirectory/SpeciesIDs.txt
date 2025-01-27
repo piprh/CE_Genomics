@@ -1,0 +1,3 @@
+0: crunogenapep.fa
+1: magnificapep.fa
+2: okutaniipep.fa
