@@ -11,6 +11,4 @@ Run by <a href="https://edwebprofiles.ed.ac.uk/profile/daniel-barker">Daniel Bar
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-<ol>
-<li>[Tutorial 1: Multiple Sequence Alignment](Tutorial1_MSA/)</li>
-</ol>
+1. [Workshop 1: Multiple Sequence Alignment](/Tutorial1_MSA/)
